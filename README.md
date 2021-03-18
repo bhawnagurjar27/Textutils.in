@@ -1,3 +1,3 @@
 # TextUtils
 
-It is a simple django project in which we can Analyze text.
+It is a simple Django project in which we can analyze text.
